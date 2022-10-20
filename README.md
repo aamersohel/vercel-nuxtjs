@@ -29,6 +29,3 @@ Build the application for production:
 ```bash
 yarn build
 ```
-
-
-
